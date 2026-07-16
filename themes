@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Forest",
+    "id": "forest",
+    "version": 18,
+    "sha256": "c5365f6430fd71aabb4c3ce68b318a4673e5ba3d92c2c52720599bfb4117db89",
+    "size": "~2.5 MB",
+    "previewImageUrl": "https://themes.bitfinitechain.org/previews/forest.png"
+  },
+  {
+    "name": "Fruit Sorbet",
+    "id": "fruit_sorbet",
+    "version": 18,
+    "sha256": "4b6d45f72edb9247ec7e709c51c5294825d58f8b1064411c8699caee5f189211",
+    "size": "~2.5 MB",
+    "previewImageUrl": "https://themes.bitfinitechain.org/previews/fruit_sorbet.png"
+  },
+  {
+    "name": "Ocean Breeze",
+    "id": "ocean_breeze",
+    "version": 18,
+    "sha256": "f67c4f5a85a8ed24947ea5ec3ec2d731e06b0b74be942857a64725c114310637",
+    "size": "~2.6 MB",
+    "previewImageUrl": "https://themes.bitfinitechain.org/previews/ocean_breeze.png"
+  },
+  {
+    "name": "OLED Black",
+    "id": "oled_black",
+    "version": 18,
+    "sha256": "056b3b9156b71608b93c3124e101dbbf718ef967cc48cacbf62734a49d05cc17",
+    "size": "~2.9 MB",
+    "previewImageUrl": "https://themes.bitfinitechain.org/previews/oled_black.png"
+  },
+  {
+    "name": "Orange",
+    "id": "orange",
+    "version": 18,
+    "sha256": "721726cb2cf50e5650dc199961448bdc71fa36403e5102249e09e63a1e7835f1",
+    "size": "~2.5 MB",
+    "previewImageUrl": "https://themes.bitfinitechain.org/previews/orange.png"
+  }
+]
