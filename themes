@@ -2,41 +2,41 @@
   {
     "name": "Forest",
     "id": "forest",
-    "version": 18,
-    "sha256": "c5365f6430fd71aabb4c3ce68b318a4673e5ba3d92c2c52720599bfb4117db89",
-    "size": "~2.5 MB",
+    "version": 19,
+    "sha256": "be203f8c0fa9dc0df4ab215b108ef4549cde990c82021106f2cfee3605a899f7",
+    "size": "~1.6 MB",
     "previewImageUrl": "https://themes.bitfinitechain.org/previews/forest.png"
   },
   {
     "name": "Fruit Sorbet",
     "id": "fruit_sorbet",
-    "version": 18,
-    "sha256": "4b6d45f72edb9247ec7e709c51c5294825d58f8b1064411c8699caee5f189211",
-    "size": "~2.5 MB",
+    "version": 19,
+    "sha256": "d4c05853c90e16a5c2a4500d90b3831a08c69ee903e5a82afa2359f050f3b832",
+    "size": "~1.7 MB",
     "previewImageUrl": "https://themes.bitfinitechain.org/previews/fruit_sorbet.png"
   },
   {
-    "name": "Ocean Breeze",
+    "name": "OceanBreeze",
     "id": "ocean_breeze",
-    "version": 18,
-    "sha256": "f67c4f5a85a8ed24947ea5ec3ec2d731e06b0b74be942857a64725c114310637",
-    "size": "~2.6 MB",
+    "version": 19,
+    "sha256": "d5e31a34b23a8717b9c363e6a0d265393152ad1217856dc23bc148edee15be70",
+    "size": "~2.5 MB",
     "previewImageUrl": "https://themes.bitfinitechain.org/previews/ocean_breeze.png"
   },
   {
     "name": "OLED Black",
     "id": "oled_black",
-    "version": 18,
-    "sha256": "056b3b9156b71608b93c3124e101dbbf718ef967cc48cacbf62734a49d05cc17",
-    "size": "~2.9 MB",
+    "version": 19,
+    "sha256": "c40a4db6c38e9a58935dceb4d9363088851e016ffc49a1e782c727f98285cb1b",
+    "size": "~1.7 MB",
     "previewImageUrl": "https://themes.bitfinitechain.org/previews/oled_black.png"
   },
   {
     "name": "Orange",
     "id": "orange",
-    "version": 18,
-    "sha256": "721726cb2cf50e5650dc199961448bdc71fa36403e5102249e09e63a1e7835f1",
-    "size": "~2.5 MB",
+    "version": 19,
+    "sha256": "282befca7eb7f77c9fc222da550428eec4a7a5fba7aecfb5413bd3f253b7cc6c",
+    "size": "~1.2 MB",
     "previewImageUrl": "https://themes.bitfinitechain.org/previews/orange.png"
   }
 ]
